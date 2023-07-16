@@ -1,11 +1,5 @@
 
-Best practices:
-
-1. Use simple words, tenses, structures
-2. Triangle a sentence/paragraph/article - important info first
-3. For actions, say "where + how +/- purpose +/- useful following action"
-4. For info, say "what + why + how"
-
+----
 Stat:
 
 1. Who are you?
@@ -25,6 +19,8 @@ Stat:
 
 - Show how to integrate DeepL into memoQ for translation
 
+----
+
 # How can I use DeepL Pro in memoQ 8.5 or higher?
 
 ## What's inside
@@ -37,18 +33,18 @@ Before you start, you need:
 
 - A DeepL Pro subscription - Advanced or Ultimate plan, or else get it [here](https://www.deepl.com/pro/select-country?cta=header-prices#team).
 - [memoQ 8.5 or higher installed](https://www.memoq.com/products/memoq-translator-pro) with an active license.
-- Your Authentication Key for DeepL Pro. To find the key, go to your account > Authentication Key.
+- Your Authentication Key for DeepL Pro. To find the key, go to Account > Authentication Key.
 
 ## Set up the DeepL Pro plugin
 
 1. Open memoQ.
 2. Go to __MT settings__ with either following way:
 
-- In the top left corner, click __Resources console__, on the left of popup windows, scroll down to and click __MT settings__.
+- In the top left corner, click __Resources console__, on the left of popup window, scroll down to and click __MT settings__.
 - Click __Project home__, in the left bottom corner, click __settings__, then in the top, click the __MT settings__ icon.
 
 3. Click __Create/use new__ to create a new MT resource.
-4. In the popup windows, under __Name__, enter a name for a new MT resource, and under __Description__, describe the resource,
+4. In the popup window, under __Name__, enter a name for a new MT resource, and under __Description__, describe the resource,
 5. Click __OK__.
 
 Note: You need to check a warning about our data privacy.
@@ -58,7 +54,8 @@ Note: You need to check a warning about our data privacy.
 8. Under the __Service__ tab, select the DeepL MT Plugin.
 9. Click the wheel icon to the right.
 10. Under __Authentication Key__, enter your key, then click __Log in__ to verify if you can connect to DeepL.
-11. If you don't want to keep formatting and tags in the MT suggestions, uncheck __Tranlate with formatting and tags__.
+
+- If you don't want to keep formatting and tags in the MT suggestions, uncheck __Tranlate with formatting and tags__.
 
 Note: If you check this option, tags in the suggestions might be displaced. Otherwise, you must insert tags manually.
 
@@ -92,7 +89,7 @@ Note: If you have a problem with the chose format, switch to another one.
 6. In the popup window, check __Use machine translation if there is no TM or corpus match__.
 7. Click __OK__.
 
-Note: You can also do Step 3-7 above in the translation editor.
+Note: You can also do Step 5-7 above in the translation editor.
 
 __Important__: If you have trouble using the DeepL plugin with memoQ 8.5 or higher, ensure your plugin and memoQ are updated, either automatically or manually. For more information, see [Check for updates](https://docs.memoq.com/current/en/Places/check-for-updates.html).
 
