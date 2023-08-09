@@ -3,6 +3,8 @@
 
 Stat:
 
+Ref: ign.com/wikis/limbo/Chapter_24
+
 1. Who are you?
   
 - You are a gamer playing Limbo, a puzzle platformer, and want to find its game guide (aka walkthrough) for help/reference.
@@ -18,7 +20,7 @@ Stat:
 - Get help for completing a level where you get stuck playing.
 - Find reference to different ways to get over a level.
 
-4. What's my purpose?
+4. What can I do for you?
 
 - Show how to play Limbo level by level with tips and tricks.
 - Won't show how to get achievements in the game.
@@ -34,7 +36,7 @@ Stat:
 
 ## Overview
 
-Limbo is a puzzle game, telling a story about a boy on a mission to find his sister by going through a dozen of challenges. It's dark and surreal with great sound and clever gaming design. If you are a sucker for these things, you're in the right place.
+Limbo is a puzzle game, telling a story about a boy on a mission to find his sister by going through a dozen of challenges. It's dark and surreal with great sound and clever gaming design. If you are a sucker for these things but feel the game is challenging to play, then you're in the right place.
 
 Before you start, you need:
 
@@ -99,11 +101,11 @@ Something to note:
 - You can use Go Up to jump up or Go Down to jump down.
 - You can Go Up to climb up or Go Down to climb down:
 - If you have something like a box blocking your move, Using Go Right/Left will push it.
-- When you Jump Over something like a bear trap, keep a distance (like the distance the boy walks in three steps) from it, do Go Right/Left, then Jump once near to it.
+- When you Jump Over something like a bear trap, keep a distance (like the distance the boy walks in three steps) from it, do Go Right/Left, then Jump when near to it.
 - When you Swing Across something like a gap, use Go Right/Left to grab something for landing.
-- Once grabbing a rope, if the gap to jump is too big, ensure you dangle back and forth to get closer to the landing side.
+- After grabbing a rope, if the gap to jump is too big, ensure you dangle back and forth to get closer to the landing side.
 - You can also use Grab to turn a switch.
-- "Pull a trap right" means "push a trap right when standing on the left side of trap". You get the idea.
+- "Pull a trap right" means "push a trap right when standing on the left side of trap". You get the idea.?
 
 From now on, we will only use the basic and combined actions. For example, "Grab the switch" means "turn the switch", "Go Up the ladder" means "grab and climb up the ladder".
 

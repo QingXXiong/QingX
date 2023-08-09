@@ -22,7 +22,7 @@
 1. Go Right until near a ladder cart.
 2. Pull it Left until it's on the ramp.
 3. Go Up the ladder and wait.
-4. Once the cat gets closer to the dome, Jump Over to the long ramp.
+4. After the cat gets closer to the dome, Jump Over to the long ramp.
 5. Jump Over to the light 1, then light 2.
 6. Jump Over to the rope and wait it to fall down.
 7. If the rope no longer falls, Go Down and Left.

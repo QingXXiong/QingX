@@ -3,7 +3,7 @@
 ## Chapter 6
 
 1. Go Right, then Go Down the ramp.
-2. Once getting closer to the gap, Jump Over it.
+2. After getting closer to the gap, Jump Over it.
 3. Go Right, Jump Over another gap.
 4. Go Right to push the boulder, then quickly fall back as you can.
 

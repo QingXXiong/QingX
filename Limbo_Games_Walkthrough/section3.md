@@ -5,7 +5,7 @@
 1. Go Right until see a giant spider.
 2. Go Right to get closer to the spider, then Go Left to run away, fast.
 3. Go Right to stand in a position where the spider will point its one of leg to you.
-4. Once the spider holds up its leg, Go Left to run away.
+4. After the spider holds up its leg, Go Left to run away.
 
 _Tip_: While baiting the spider to attack the trap, always stand to the left of trap.
 
@@ -14,5 +14,5 @@ _Tip_: While baiting the spider to attack the trap, always stand to the left of 
 7. Pull the trap right, do Step 3 and 4 _three_ times, but each time put the trap in a position the spider will attack.
 8. After the spider lost its three legs, Go Right through the tunnel.
 9. Go Right until get stuck and can't move, then wait.
-10. Once the spider goes away, Go Left and Right to fall off the webs.
+10. After the spider goes away, Go Left and Right to fall off the webs.
 11. Go Right with the webs wrapped.

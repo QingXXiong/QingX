@@ -18,8 +18,8 @@ _Tip_: Take a breath each time you jump.
 
 ## Chapter 9
 
-1. Once getting closer to the gap, Jump Over it and wait.
-2. Once seeing a big fire wheel coming, Go Left and Jump Over.
+1. After getting closer to the gap, Jump Over it and wait.
+2. After seeing a big fire wheel coming, Go Left and Jump Over.
 3. Jump Over the gap, and Go Right.
 4. While a small fireball is near to you, Go Up, then Go Right.
 

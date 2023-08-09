@@ -6,17 +6,17 @@
 2. Pull the box right to the platform under the elevator.
 3. Stand beside the up arrow of switch and Grab.
 4. Go Left to stand on the platform, then Jump Over the box.
-5. Once the elevator goes up as high as another platform, Go Right to push the box.
+5. After the elevator goes up as high as another platform, Go Right to push the box.
 6. Go Right to push the box until it's on the seesaw.
 7. Go Left to stand beside the down arrow of switch and Grab, then Go Left to Pull it right until it's on the seesaw.
 8. Pull the box right until see the lever.
 9. Pull the lever left to lower the rope, and wait the rope to go down.
-10. Once the rope stops, Pull the box right a bit if it's right below the rope.
+10. After the rope stops, Pull the box right a bit if it's right below the rope.
 11. Go Right to Pull the lever right, and Go Left, Jump Over to the box, then the rope.
 12. Ride the rope up until it stops.
 13. Swing Across to the right.
 
-_Trick_: Swing the rope about _3_ times backward and forward since swinging too much could make you die. Plus, Swing Across from the lower one-third position of rope.
+_Trick_: Swing the rope about _3_ times backward and forward because swinging too much could make you die. Plus, Swing Across from the lower one-third position of rope.
 
 ## Chapter 25
 

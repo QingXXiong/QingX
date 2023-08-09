@@ -4,7 +4,7 @@
 
 1. Go Right and Jump Over the gap.
 2. Go Right but get two steps away from the brain slug.
-3. Once the slug starts swinging its head right, Go Right to Pull the box left.
+3. After the slug starts swinging its head right, Go Right to Pull the box left.
 4. Jump Over the box and Go Right, and the slug attaches you.
 5. Under the control, Go Left to push the box left as possible.
 6. Go Up the box and Jump Over to another side.
@@ -23,7 +23,7 @@
 _Tip_: If your body is still above the water, you can go alive.
 
 18. Go Up to the top, then wait patiently.
-19. Once seeing the platform floating, wait it to go up as high as the topmost spike.
+19. After seeing the platform floating, wait it to go up as high as the topmost spike.
 20. Jump Over to the platform, then another side.
 21. Go Up to feed the eater with the slug, then Go Right.
 22. Go Up the ladder, then Go Right.

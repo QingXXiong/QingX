@@ -3,7 +3,7 @@
 
 ## Chapter 1
 
-1. Once standing up, Go Right.
+1. After standing up, Go Right.
 
 ## Chapter 2
 
@@ -12,7 +12,7 @@
 3. Go Right until get to the box.
 4. Pull the box left to Go Up it, then the platform.
 5. On the platform, Go Right, then Jump Over to the rope.
-6. Once holding the rope, Go Down until get to another platform.
+6. After holding the rope, Go Down until get to another platform.
 7. Go Right and Jump Over.
 
 _Tip_: To go quickly, use Jump Over instead of Go Right.
@@ -23,7 +23,7 @@ _Trick_: Don't Go Down or Jump Over a platform from a high position. You are not
 
 1. Go Right through the tunnel until near the boat.
 2. Jump Over to the boat, making it sail across the water.
-3. Once getting to another side, Jump Over the boat and Pull it right.
+3. After getting to another side, Jump Over the boat and Pull it right.
 4. When getting to the platform, Jump Over to the right tip of boat, then the platform.
 5. Go Right and Grab the trunk.
 6. Go Up to a position as high as the rope and Jump Over to it.

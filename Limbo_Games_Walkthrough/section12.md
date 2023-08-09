@@ -9,7 +9,7 @@
 5. Keep going until near a button.
 6. Stand on the button, then use Go Left to slow down, even if the slug controls you.
 7. Go Right and Up the box falling down.
-8. Once the saw is moving near to the box, Jump Over it.
+8. After the saw is moving near to the box, Jump Over it.
 9. Keep going, then Go Up to the platform.
 10. Go Up to feed the eater and Go Left.
 11. Wait the saw is moving near to the platform, Jump Over it.

@@ -8,7 +8,7 @@
 _Trick_: If you Jump Over to hold the edge of platform, wait the gun 1 on the left to stop firing.
 
 3. Jump Over left to the gun 1 and wait.
-4. Once the gun 2 is above you, Jump Over left.
+4. After the gun 2 is above you, Jump Over left.
 5. Go Right to the gun 1 and wait, then do Step 4.
 6. Go Right, then Go Down the ramp 1.
 7. Keep going to Pull the box 2 on the right until it's on the half of the ramp 2, then wait the gravity to come back.
@@ -27,4 +27,4 @@ _Tip_: Just stand where you Jump Over to the ramp 1, or else you may get hit by 
 17. Keep going until the box it's near the block up above.
 18. Go Down the ladder to do Step 14 and 15.
 19. Go Right, then Go Up to the box 1.
-20. Once rising up as high as the right platform, Jump Over right, then Go Right.
+20. After rising up as high as the right platform, Jump Over right, then Go Right.
