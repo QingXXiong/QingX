@@ -92,6 +92,7 @@ Here is the toolkit to write clearly:
 15. Don't use _as_ for anything at Bullet 9.
 16. Note _there is_ and _you can_.
 17. Use _with_: for the _A has B_ meaning, use __A+ with + B__ ; for _A do B by using C_, use __A + B + by using C__ if __A do B with C__ may mean _B has C_, otherwise use __A do B with C__, and __A + with + C__ if no _B_.
+18. Use _should_ for advice, _can_ for ability, _will_ for future, _might_ for possibility, _must_ for necessity, and _may_ for permission.
 
 ## How I write docs
 
