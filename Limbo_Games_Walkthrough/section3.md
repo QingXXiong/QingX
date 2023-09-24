@@ -3,7 +3,7 @@
 ## Chapter 5
 
 1. Go Right until see a giant spider.
-2. Go Right to get closer to the spider, then Go Left to run away, fast.
+2. Go Right to get closer to the spider, then Go Left _in no time_.
 3. Go Right to stand in a position where the spider will point its one of leg to you.
 4. After the spider holds up its leg, Go Left to run away.
 
