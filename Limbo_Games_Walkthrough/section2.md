@@ -3,7 +3,7 @@
 ## Chapter 4
 
 1. Go Right until near the fallen log.
-2. Go Down one step and Jump Over to the log, then Go Right two or three steps, so the log slides down and a boulder tumbles down.
+2. Go Down one step and Jump Over to the log, then Go Right two or three steps, so the log slides down and the boulder tumbles down.
 3. Go Left and Jump Over left to the platform, wait until everything settles.
 4. Go Up the boulder, then Go Right.
 5. Go Up to the higher platform.
