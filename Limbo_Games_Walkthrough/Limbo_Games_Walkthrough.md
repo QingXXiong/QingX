@@ -102,7 +102,7 @@ However, the Grab action is automatic when:
 
 One thing you need to pay attention is the momentum mechanics. What's momentum? Gaining speeds to go cross a big gap or something. Limbo requires a lot of prerun or dangling for getting through, otherwise you might die lots of times.
 
-Here are 2 cases where you need to get momentum:
+Here are 2 cases where you need to get momentum and the actions:
 
 - Swinging with something like a rope: dangling, that's, Go Left and Right
 - Jump Over something like a bear trap: keeping a distance, like the distance the boy walks in three steps
