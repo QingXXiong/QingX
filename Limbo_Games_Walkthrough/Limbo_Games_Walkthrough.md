@@ -60,7 +60,7 @@ Skim through these things before diving into the walkthrough, so you won't say F
 
 ### The structure of walkthrough
 
-The 40 chapters are divided into 21 _sections_, with each section including 2-3 chapters. For each section, the structure of walkthrough is like this:
+The 40 chapters are divided into 21 _sections_, with each section including 1-3 chapters. For each section, the structure of walkthrough is like this:
 
 ----
 
@@ -92,7 +92,7 @@ Here are basic actions you can do, regardless which device you use (the ways to 
 
 Also, you have these combined actions:
 
-- Jump Over: Go Right/Left + Jump, for something like a gap
+- Jump Over: Go Right/Left + Go Up, for something like a gap
 - Pull: Go Right/Left + Grab, for something like a bear trap or a lever
 
 However, the Grab action is automatic when:
@@ -112,6 +112,7 @@ Something to note:
 - Use Go Up to jump up or Go Down to jump down
 - Go Up to climb up or Go Down to climb down
 - Use Grab to turn on/off something
+- Swinging = dangling + Jump Over
 - Swinging is not a combined action because Grab is automatic
 - Pushing is not combined action because Grab is automatic
 
@@ -169,7 +170,7 @@ Navigate the walkthrough:
 
 | Section | Chapters |
 | :--- | :--- |
-| Section 1 | |  |
+| Section 1 | 1-3 |
 | Section 2 |  |
 | Section 3 |  |
 | Section 4 |  |
