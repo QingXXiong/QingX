@@ -7,13 +7,13 @@ Ref: ign.com/wikis/limbo/Chapter_24
 
 1. Who are you?
   
-- You are a gamer playing Limbo, a puzzle platformer, and want to find its game guide (aka walkthrough) for help/reference.
+- You are a gamer playing Limbo, a puzzle platformer, and want to find its game guide (walkthrough) for help/reference.
 
 2. What do you have? (exp/skills)
 
-- You may have varying experience playing a puzzle platformer, as a newcomer or a seasoned gamer.
-- You know basics about playing a game with a keyboard, a controller, or a device with a touchscreen, for example, using shortcuts for actions and navigating games.
-- You may don't know basic about gaming, like types of games, objects commonly used in games.
+- You have varying experience playing a puzzle platformer, from a newcomer to a seasoned gamer.
+- You know basics about playing a game with a keyboard, a controller, or a device with a touchscreen. For example, using shortcuts for actions and navigating games.
+- You might not know basic about gaming, like types of games, objects commonly used in games.
 
 3. What do you want from me?
 
@@ -32,21 +32,21 @@ Ref: ign.com/wikis/limbo/Chapter_24
 - Overview
 - How to read the walkthrough
 - How to avoid useless dying
-- Walk through Limbo by section
+- Walk through Limbo by sections
 
 ## Overview
 
-Limbo is a puzzle game, telling a story about a boy on a mission to find his sister by going through a dozen of challenges. It's dark and surreal with great sound and clever gaming design. If you are a sucker for these things but feel the game is challenging to play, then you're in the right place.
+Limbo is a puzzle game, telling a story about a boy on a mission to find his sister by going through a dozen of challenges. It's dark and surreal with great sound and atmosphere, and clever gaming design. If you are a sucker for these things but feel the game is challenging to play, then you're in the right place.
 
-Before you start, you need:
+Before starting, you need:
 
-- A copy of Limbo. Or else, buy or rent it. For how to get Limbo as you want, check out [Buy Limbo](playdead.com/games/limbo/).
+- A copy of Limbo. Or else, buy or rent it. For how to get Limbo on your favorite platform, check out [Buy Limbo](playdead.com/games/limbo/).
 - One of these:
   - A keyboard or a controller for playing on a computer.
   - A controller for playing on a game console.
   - A device with a touchscreen, like a mobile phone or Nintendo Switch.
 
-Limbo has 40 _Chapters_. To check which chapter you playing, in the game, go to __Menu__ > __Load Chapter__, then you'll see the current chapter. To navigate through chapters, use the right/left action as you play games. Note you can only navigate to a chapter where you complete all the challenges.
+Limbo has 40 _Chapters_. To check which chapter you are playing, in the game, go to __Menu__ > __Load Chapter__ to see the current chapter. To navigate through chapters, use the right/left action for playing the game. Note you can only navigate to a chapter where you complete all the challenges.
 
 ## How to read the walkthrough
 
@@ -56,15 +56,15 @@ This walkthrough aims to help you get through chapters in Limbo. So, to make the
 - The basic actions you can do, like jumping and grabbing.
 - The objects commonly used in the game, like levers, elevators, and crates.
 
-You can just dive into _How to avoid useless dying_ right away. But better skim through them, so you won't say F words in case lost in the walkthrough.
+Skim through these things before diving into the walkthrough, so you won't say F words in case you are lost.
 
 ### The structure of walkthrough
 
-We divide the 40 chapters into 21 _sections_, with each section including 2-3 chapters. For each section, the structure of walkthrough is like this:
+The 40 chapters are divided into 21 _sections_, with each section including 2-3 chapters. For each section, the structure of walkthrough is like this:
 
 ----
 
-### Chapter 1 | Section 2
+### Section 1
 
 _Steps_:
 
@@ -90,24 +90,32 @@ Here are basic actions you can do, regardless which device you use (the ways to 
 - Go Down
 - Grab
 
-Also, you can have these combined actions:
+Also, you have these combined actions:
 
 - Jump Over: Go Right/Left + Jump, for something like a gap
-- Swing Across: Go Right/Left + Grab, for something like ropes or chains
-- Pull: Go Right/Left/Up/Down + Grab, for something like a bear trap or a lever
+- Pull: Go Right/Left + Grab, for something like a bear trap or a lever
+
+However, the Grab action is automatic when:
+
+- Reaching to something like ropes, ladders, chains, and platforms
+- Pushing something right ahead of you
+
+One thing you need to pay attention is the momentum mechanics. What's momentum? Gaining speeds to go cross a big gap or something. Limbo requires a lot of prerun or dangling for getting through, otherwise you might die lots of times.
+
+Here are 2 cases where you need to get momentum and the actions:
+
+- Swinging with something like a rope: dangling, that's, Go Left and Right
+- Jump Over something like a bear trap: keeping a distance, like the distance the boy walks in three steps
 
 Something to note:
 
-- You can use Go Up to jump up or Go Down to jump down.
-- You can Go Up to climb up or Go Down to climb down:
-- If you have something like a box blocking your move, Using Go Right/Left will push it.
-- When you Jump Over something like a bear trap, keep a distance (like the distance the boy walks in three steps) from it, do Go Right/Left, then Jump when near to it.
-- When you Swing Across something like a gap, use Go Right/Left to grab something for landing.
-- After grabbing a rope, if the gap to jump is too big, ensure you dangle back and forth to get closer to the landing side.
-- You can also use Grab to turn a switch.
-- "Pull a trap right" means "push a trap right when standing on the left side of trap". You get the idea.?
+- Use Go Up to jump up or Go Down to jump down
+- Go Up to climb up or Go Down to climb down
+- Use Grab to turn on/off something
+- Swinging is not a combined action because Grab is automatic
+- Pushing is not combined action because Grab is automatic
 
-From now on, we will only use the basic and combined actions. For example, "Grab the switch" means "turn the switch", "Go Up the ladder" means "grab and climb up the ladder".
+From now on, the basic and combined actions will be used to in camel case to describe actions to do, that's, the case of _Go Up_. Swinging and pushing are also used in camel case as a reminder.
 
 Why? It's concise, clear, and consistent. You don't want to die when following confusing steps, right?
 
@@ -123,8 +131,8 @@ Here is a cheat sheet with quips for you.
 | Boxes | the magic cube for almost everything |
 | Bear traps | not just for bears |
 | Spiders | scary but you can pull its leg |
-| boulders | who play such a big ball|
-| Trunks |  |
+| boulders | who play such a big ball |
+| Trunks | not that handy at all |
 | Platforms | so smooth yet so rough |
 | Carts | no time for shopping |
 | Gears | ride its teeth |
@@ -134,16 +142,16 @@ Here is a cheat sheet with quips for you.
 | Button | not for your clothes |
 | Elevators | something fishy with it |
 | Levers | no level up |
-| Switches | Switch as your life depends on it |
+| Switches | Switch, or else |
 | Saws | saw a saw, jump |
 | Guns | shoot me if you can |
-| Ladders | up, up, and up |
-| Pipes |  |
+| Ladders | no jump scare |
+| Pipes | hollowly dangerous |
 | Slug eaters | I love slugs |
 
 ## How to avoid useless dying
 
-Almost every gamer has been dead at least once, I mean, in a game. Playing games is a try-and-true process, so to pass a game, you will die from a few times to lots of times, depending on how hard the game is. But the thing is, we need to get rid of useless dying. You grumble about failing to jump over in a game but indeed miss pre-run for jumping. This is a good example of useless dying.
+Almost every gamer has been dead at least once, I mean, in a game. Playing games is a try-and-true process, so to pass a game, you will die from a few times to lots of times, depending on how hard the game is. But the thing is, you need to get rid of useless dying. You grumble about failing to jump over in a game but indeed miss pre-run for jumping. This is a good example of useless dying.
 
 If you want to get a sense of achievement but not frustration, ask yourself these questions:
 
@@ -153,7 +161,7 @@ If you want to get a sense of achievement but not frustration, ask yourself thes
 - How long have you been playing a game? Long time playing a game, especially a hard one, wears you out.
 - Do you say "Yes, I can do it"? Some games need your stamina and patience in a short time, so better push yourself a bit.
 
-Well, we have talked about a lot, it's time for game on and to start playing.
+Well, enough talking, it's time for game on and to start playing.
 
 ## Walk through Limbo by Section
 
