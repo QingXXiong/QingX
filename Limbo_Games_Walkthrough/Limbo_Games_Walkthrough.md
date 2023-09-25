@@ -171,8 +171,8 @@ Navigate the walkthrough:
 | Section | Chapters |
 | :--- | :--- |
 | Section 1 | 1-3 |
-| Section 2 |  |
-| Section 3 |  |
+| Section 2 | 4 |
+| Section 3 | 5 |
 | Section 4 |  |
 | Section 5 |  |
 | Section 6 |  |
