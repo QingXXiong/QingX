@@ -93,7 +93,7 @@ If turning on __Advanced settings__, you have:
 
    a. __Ignore errors__: do nothing. Select it for errors inapplicable to your project. Say, no space needed before and after parentheses.
 
-   b. __Notify about errors__: show a warning. Select it for errors that need your attention but may be a false alarm. Say, no number needed in the target though the source has.
+   b. __Notify about errors__: show a warning. Select it for errors that need your attention but might be a false alarm. Say, no number needed in the target though the source has.
 
    c. __Require error correction__: need actions. Select it for errors you have to correct. Say, wrong spelling of a well-known acronym.
 
@@ -166,7 +166,7 @@ To use the Translation editor:
 - Click a segment to enter your translation in the target field.
 - Next to a translation, click the tick icon or use `Command` (on macOS) or `Ctrl` (on Windows) + `Enter` to confirm the current segment.
 - In the editor's top left corner, click __Search source__ or __Search target__ to search stuff. The thing you enter will show as a label, and click the cross icon to delete it.
-- In the top right corner, click __Add filter__ to filter segments by specified criteria. You may often use __Segment status__ to check the translation status and locked segments. For other options, see [Filtering segments](help.smartcat.com/editor/1539659-filtering-segments?).
+- In the top right corner, click __Add filter__ to filter segments by specified criteria. You might often use __Segment status__ to check the translation status and locked segments. For other options, see [Filtering segments](help.smartcat.com/editor/1539659-filtering-segments?).
 - Click the download icon to see download options in [Navigate the project page](#navigate-the-project-page).
 - Click __Done__ to deliver your job. If you have unconfirmed segments or unsolved QA errors, the __Done__ button will be gray.
 
@@ -241,7 +241,7 @@ In the top right corner of editor page, hold the pointer over __Settings__. Here
 
 Don't confuse __Editor settings__ with __Settings__. Remember the __Auto-insertion__ and __Auto-propagation__ tabs in __Editor settings__. For other options, try changing them to see what fits you.
 
-Click the question mark to view the help page. Heads-up: Smartcat might mess up its docs because some topics on the help page are not for translators and may be hard to get ideas.
+Click the question mark to view the help page. Heads-up: Smartcat might mess up its docs because some topics on the help page are not for translators and might be hard to get ideas.
 
 ## Set up your translation memory
 
@@ -255,7 +255,7 @@ A TM is handy for:
 - Reusing translations for speed and quality across different projects.
 - Providing references on how to translate similar sources.
 
-Remember TMX we talked about before? If a TM is a notepad, then the TMX format is a set of rules for writing on the pad, so you can easily find stuff. You may see a different rule like XLIFF, but TMX is universal and compatible with many popular CAT tools like Smartcat.
+Remember TMX we talked about before? If a TM is a notepad, then the TMX format is a set of rules for writing on the pad, so you can easily find stuff. You might see a different rule like XLIFF, but TMX is universal and compatible with many popular CAT tools like Smartcat.
 
 ### Create a translation memory
 
@@ -397,7 +397,7 @@ Note: you can't change field names in the downloaded XLSX file.
   - For __Glossary properties__, change the settings you did before, or delete the glossary.
   - For __Glossary structures__, manage field names and types for your glossary.
 
-As a translator, you may not need complex options in __Glossary structures__. The default field setup is enough. But if you want to know more about setting up field names and types, check out [Structure of glossary](help.smartcat.com/glossaries/properties-and-structure-of-glossary/).
+As a translator, you might not need complex options in __Glossary structures__. The default field setup is enough. But if you want to know more about setting up field names and types, check out [Structure of glossary](help.smartcat.com/glossaries/properties-and-structure-of-glossary/).
 
 To add a glossary to a project:
 
@@ -420,7 +420,7 @@ To insert the translation of a term, put your cursor on where to insert, then cl
 
 ## Work with machine translation
 
-You may think machine translation = Google Translate. Partly it's correct. We can edit results by machine translation (MT) to make translations more accurate and fluent. Many translators use MT to check whether their translations have errors like mistranslation or to get some ideas about wording.
+You might think machine translation = Google Translate. Partly it's correct. We can edit results by machine translation (MT) to make translations more accurate and fluent. Many translators use MT to check whether their translations have errors like mistranslation or to get some ideas about wording.
 
 But translation memories and glossaries are also big parts of MT. Plus, here comes AI that can learn and predict to help you translate, like translating a term right or picking a word that shines.
 

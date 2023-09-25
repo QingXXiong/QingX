@@ -3,13 +3,13 @@
 ## Chapter 4
 
 1. Go Right until near the fallen log.
-2. Go Down one step and Jump Over to the log, then Go Right two or three steps, so the log slides down and the boulder tumbles down.
+2. Go Down 1 step and Jump Over to the log, then Go Right 2 or 3 steps, so the log slides down and the boulder tumbles down.
 3. Go Left and Jump Over left to the platform, wait until everything settles.
 4. Go Up the boulder, then Go Right.
 5. Go Up to the higher platform.
 6. Go Right until near the box in the water.
 7. Pull the box left until it's under the rope.
-8. Go Up the box, then Go Up to grab the rope.
+8. Go Up the box, then Go Up to Grab the rope.
 9. Swing right to Branch 1.
 10. Jump Over to Branch 2.
 11. Go Left and Jump Over to Branch 3.

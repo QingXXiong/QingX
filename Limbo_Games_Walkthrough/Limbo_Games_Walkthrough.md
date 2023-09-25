@@ -112,11 +112,10 @@ Something to note:
 - Use Go Up to jump up or Go Down to jump down
 - Go Up to climb up or Go Down to climb down
 - Use Grab to turn on/off something
-- Swinging = dangling + Jump Over
-- Swinging is not a combined action because Grab is automatic
-- Pushing is not combined action because Grab is automatic
+- Swing = dangle + Jump Over
+- Swing and Push are not combined actions because Grab is automatic
 
-From now on, the basic and combined actions will be used to in camel case to describe actions to do, that's, the case of _Go Up_. Swinging and pushing are also used in camel case as a reminder.
+From now on, the basic and combined actions will be used in camel case to describe actions to do, that's, the case of _Go Up_. Swing and Push are also used in camel case as a reminder.
 
 Why? It's concise, clear, and consistent. You don't want to die when following confusing steps, right?
 
@@ -173,8 +172,8 @@ Navigate the walkthrough:
 | Section 1 | 1-3 |
 | Section 2 | 4 |
 | Section 3 | 5 |
-| Section 4 |  |
-| Section 5 |  |
+| Section 4 | 6-7 |
+| Section 5 | 8-10 |
 | Section 6 |  |
 | Section 7 |  |
 | Section 8 |  |
