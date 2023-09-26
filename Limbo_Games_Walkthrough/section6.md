@@ -2,25 +2,25 @@
 
 ## Chapter 11
 
-1. Go Right until see the log 1, and Pull it left to the water.
-2. Jump Over to the log, then to the platform in the middle.
-3. Jump Over to the log 2 and Go Up.
-4. Go Right to the log 3 and Go up to it.
-5. Go Right to the root part of log, and wait the spider.
-6. After the spider puts its legs on the log, and Jump Over to another side.
+1. Go Right to Push Log 1 to the water.
+2. Jump Over to Log 1, then to the right platform in the middle.
+3. Jump Over to Log 2 and Go Up.
+4. Go Right to Log 3 and Go up to it.
+5. Go Right to the root part of log, then wait the spider.
+6. When the spider puts its legs on the log, Jump Over right.
 
 _Trick_: Ensure the spider puts at least 2 legs on the log, then Jump Over.
 
-7. Go Right to push down the log 4, and Jump Over.
-8. Go Right, Go Up, then Go Right.
+7. Go Right to Push Log 4, then Jump Over right.
+8. Go Right, Go Up to the platform, then Go Right until neat the boulder.
 9. Jump Over the branch supporting the boulder.
-10. Go Left fast, Go Down, and Go Right.
+10. Go Left to hide beside the platform in Step 8.
 11. After the boulder hits the spider, Go Left and Up, then Go Right.
-12. Jump Over the gap to the log 5, and Go Right.
-13. Go Down the log, then Go Up and Right.
-14. Go Down the ramp and Go Right until see a gap.
+12. Jump Over the gap to Log 5 and Go Right.
+13. Go Up and Right.
+14. Keep going right until near a gap.
 15. Go Left closer to the almost-dead spider.
-16. After it holds up its last leg, Go Right fast.
+16. When it holds up its last leg, Go Right _in no time_.
 17. Pull that leg right away from the body.
-18. Go Right, Jump Over the dead body, and Pull the body right to the gap.
-19. Jump Over to the body, then another side.
+18. Go Left, Jump Over the dead body, then Go Right to Push the body to the gap.
+19. Go Up to the body, then Jump Over right.
