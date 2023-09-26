@@ -174,9 +174,9 @@ Navigate the walkthrough:
 | Section 3 | 5 |
 | Section 4 | 6-7 |
 | Section 5 | 8-10 |
-| Section 6 |  |
-| Section 7 |  |
-| Section 8 |  |
+| Section 6 | 11 |
+| Section 7 | 12-14 |
+| Section 8 | 15-17 |
 | Section 9 |  |
 | Section 10 |  |
 | Section 11 |  |
