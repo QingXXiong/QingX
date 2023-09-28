@@ -179,8 +179,8 @@ Navigate the walkthrough:
 | Section 8 | 15-17 |
 | Section 9 | 18 |
 | Section 10 | 19-20 |
-| Section 11 |  |
-| Section 12 |  |
+| Section 11 | 21-22 |
+| Section 12 | 23 |
 | Section 13 |  |
 | Section 14 |  |
 | Section 15 |  |

@@ -5,9 +5,9 @@
 1. Go Right and Jump Over the gap.
 2. Go Right but get two steps away from the brain slug.
 3. When the slug starts swinging its head right, Go Right to Pull the box left.
-4. Go Up to the box and Go Right, and the slug attaches you.
+4. Go Up to the box and Go Right, then the slug attaches.
 5. Under the control, Go Left to Push the box left as possible.
-6. Go Up the box and Jump Over to another side.
+6. Go Up the box and Jump Over right.
 7. Go Left until go under the light.
 8. Do Step 1.
 9. Go Right, then Go Up Ladder 1.
@@ -34,7 +34,7 @@ _Tip_: If your body is still above the water, you can go alive.
 
 _Tip_: Remember you can Jump Over it, but can't Jump Over back (try it to see).
 
-2. Go Right through the ramp and Jump Over the gap.
+2. Go Right, when down the ramp, Jump Over the gap.
 3. Jump Over right to the pipe.
-4. Go Up to the top, wait the pipe to stop falling, then Jump Over right.
+4. Go Up to the top, when the pipe stops falling, then Jump Over right.
 5. Go Right.

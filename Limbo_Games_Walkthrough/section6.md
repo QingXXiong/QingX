@@ -18,7 +18,7 @@ _Trick_: Ensure the spider puts at least 2 legs on the log, then Jump Over.
 11. After the boulder hits the spider, Go Up and Right.
 12. Jump Over the gap to Log 5 and Go Right.
 13. Go Up and Right.
-14. Keep going until near a gap.
+14. Keep going until near the gap.
 15. Go Left closer to the almost-dead spider.
 16. When it holds up its last leg, Go Right _in no time_.
 17. Pull that leg right away from the body.

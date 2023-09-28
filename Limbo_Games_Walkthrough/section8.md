@@ -11,7 +11,7 @@
 6. Jump Over left and Go Down, then Go Right.
 7. Go Up to the cart, then Jump Over to hold the rope.
 8. Hold the rope until it stops going down, then Swing right to hold another rope.
-9. Do Step 5, when two moving blocks almost meet, then Go Right.
+9. Do Step 5, when two moving blocks almost meet, Go Right.
 10. Go Right before two blocks go down.
 11. Go Right, Go Up, then Keep going.
 
@@ -34,7 +34,7 @@ _Tip_: If a brain slug attaches to you, you can only move in the direction which
 4. Jump Over right down to force the frog to go left.
 5. Go Left until near the lever.
 6. After the wheel below moves, Pull the lever left until it rains.
-7. Go Right, Go Up, and keep going until near a big gap.
+7. Go Right, Go Up, and keep going until near the big gap.
 8. Go Down to Pull the log left to the middle of gap.
 9. Jump Over left from the log to Grab the left pipe, then Go Up.
 10. Go Left and Go Up to hold the chain, wait until the water level in the gap stops rising.

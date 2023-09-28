@@ -22,9 +22,9 @@ _Tip_: You have enough time, so stay calm and do the actions.
 
 16. After on the top, Go Right, then Jump Over to the big box.
 17. Wait the balloon to go up and get stuck in the box.
-18. After the box floats up, Go Right one step, so you won't fall off.
+18. After the box floats up, Go Right one step.
 
-_Tip_: Ensure standing in the middle of box.
+_Tip_: Ensure standing in the middle of box, so you won't fall off.
 
 19. After near to the right platform, Jump Over.
 20. Go Right until near Lever 1, Pull it left.
