@@ -2,34 +2,31 @@
 
 ## Chapter 24
 
-1. Go Left until near a box.
+1. Go Left until near the box.
 2. Pull the box right to the platform under the elevator.
-3. Stand beside the up arrow of switch and Grab.
-4. Go Left to stand on the platform, then Jump Over the box.
-5. After the elevator goes up as high as another platform, Go Right to push the box.
-6. Go Right to push the box until it's on the seesaw.
-7. Go Left to stand beside the down arrow of switch and Grab, then Go Left to Pull it right until it's on the seesaw.
-8. Pull the box right until see the lever.
+3. Stand beside _Up_ arrow of switch and Grab.
+4. Go Left to stand on the platform.
+5. When the elevator goes up as high as the right platform, Pull the box right as possible.
+6. Go Right to Push the box until it's on the seesaw.
+7. Go Left to stand beside _Down_ arrow of switch and Grab, then Go Left to Pull it right until it's on the seesaw.
+8. Pull the box right until near the lever.
 9. Pull the lever left to lower the rope, and wait the rope to go down.
-10. After the rope stops, Pull the box right a bit if it's right below the rope.
+10. After the rope stops, Pull the box left a bit if it's closer to the box.
 11. Go Right to Pull the lever right, and Go Left, Jump Over to the box, then the rope.
 12. Ride the rope up until it stops.
-13. Swing Across to the right.
+13. Swing right.
 
-_Trick_: Swing the rope about _3_ times backward and forward because swinging too much could make you die. Plus, Swing Across from the lower one-third position of rope.
+_Trick_: Swing about _3_ times because swinging too much might make you die. Plus, Swing from the lower one-third position of rope.
 
 ## Chapter 25
 
-1. Go Right to stand on the first button, then keep going to stand on the second button.
+1. Go Right to stand on Button 1, then keep going to stand on Button 2.
 
-_Trick_: Wait 1 second, then Go Right to stand on the second button, or else the second box will fall down before you can push the first box under it.
+_Trick_: Wait 1 second, then Go Right to stand on Button 2, or else Box 2 will fall down before you push Box 1 under it.
 
-2. Go Left across the first button, then Go Right to push the first box until it's under the second box.
+2. Go Left across Button 1, then Go Right to Push Box 1 until it's under Box 2.
+3. Go Up to Box 2, then Jump Over right before the saw comes near.
 
-_Trick_: Jump Over at least two times to Go Left, or else the second box will fall down before you can push the first box under it.
+_Trick_: Always Go Up the boxes, don't try to Go Right, or else you will push Box 2 off.
 
-3. Go Up to the second box, then Jump Over to the right before the saw gets you.
-
-_Trick_: Always Go Up the boxes, don't try to Go Right, or else you will push the second box off.
-
-4. Go Right until see a ladder, then Go Up it.
+4. Go Right until see the ladder, then Go Up it.
