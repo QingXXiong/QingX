@@ -183,8 +183,8 @@ Navigate the walkthrough:
 | Section 12 | 23 |
 | Section 13 | 24-25 |
 | Section 14 | 26-27 |
-| Section 15 |  |
-| Section 16 |  |
+| Section 15 | 28 |
+| Section 16 | 29-30 |
 | Section 17 |  |
 | Section 18 |  |
 | Section 19 |  |

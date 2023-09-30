@@ -5,7 +5,7 @@
 1. Go Right, and wait _H_ to light up again, whether it's lighting or not.
 2. Wait 2 seconds, then Jump Over to _H_.
 3. Jump Over through _H_.
-4. Standing on _O_ will push _T_, then the rope will fall down.
+4. Standing on _O_ will Push _T_, then the rope will fall down.
 5. When the rope is going left, Swing right.
 6. Go Right to Pull the lever down, turning off the power.
 7. Go Left and Swing left.
