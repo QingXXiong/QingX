@@ -3,17 +3,17 @@
 ## Chapter 15
 
 1. Go Down the ladder, then Go Left to Pull the cart right as possible.
-2. Go Up to the cart and Go Right.
-3. Go Up the ladder to the top, the Jump Over right to the platform.
+2. Go Up the cart and Go Right.
+3. Go Up the ladder to the top, then Jump Over right to the platform.
 4. Go Right, then Jump Over to the rope.
 5. Hold the rope, and Go Up about every 2 seconds until the rope stops going down.
 
 6. Jump Over left and Go Down, then Go Right.
-7. Go Up to the cart, then Jump Over to hold the rope.
+7. Go Up the cart, then Jump Over to hold the rope.
 8. Hold the rope until it stops going down, then Swing right to hold another rope.
 9. Do Step 5, when two moving blocks almost meet, Go Right.
 10. Go Right before two blocks go down.
-11. Go Right, Go Up, then Keep going.
+11. Go Right, Go Up, then keep going.
 
 ## Chapter 16
 

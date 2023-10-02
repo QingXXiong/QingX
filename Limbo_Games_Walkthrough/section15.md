@@ -12,7 +12,7 @@
 8. Push the box up the ramp as far as possible, wait the box to go down, then Jump Over back to the switch.
 9. When the box goes down one quarter of the ramp, Grab to turn on the switch.
 
-_Tip_: No idea about one quarter? Notice three small blocks below, turn on the witch while the box goes down past the first block.
+_Tip_: No idea about one quarter? Notice three small blocks below, turn on the switch while the box goes down past the first block.
 
 10. Go Right, Go Up the box, then Jump Over right to the platform.
 11. Go Right to another switch, then Grab.

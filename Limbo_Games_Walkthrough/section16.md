@@ -18,7 +18,7 @@ _Trick_: One step away ensures you Jump Over but won't push the box off the edge
 4. Go Right to Belt 1, then wait Block 1 to close.
 5. When the block rises, Go Right through it, then Jump Over to Belt 2.
 6. Go Right near to Block 2, then Jump Over to hold its edge and wait it to go up.
-7. When the block goes down, Go Up to it, then Jump Over to Belt 3.
+7. When the block goes down enough, Go Up to it, then Jump Over to Belt 3.
 8. Wait below the eaters, when a box is near, Go Up the box and Jump Over to feed the eaters.
 9. Go Right, then Go Up a tooth of Gear 1.
 10. When going up as high as Ladder 1, then Jump Over left.

@@ -97,7 +97,7 @@ Also, you have these combined actions:
 
 However, the Grab action is automatic when:
 
-- Reaching to something like ropes, ladders, chains, and platforms
+- Reaching something like ropes, ladders, chains, and platforms
 - Pushing something right ahead of you
 
 One thing you need to pay attention is the momentum mechanics. What's momentum? Gaining speeds to go cross a big gap or something. Limbo requires a lot of prerun or dangling for getting through, otherwise you might die lots of times.
@@ -185,8 +185,8 @@ Navigate the walkthrough:
 | Section 14 | 26-27 |
 | Section 15 | 28 |
 | Section 16 | 29-30 |
-| Section 17 |  |
-| Section 18 |  |
+| Section 17 | 31-32 |
+| Section 18 | 33 |
 | Section 19 |  |
 | Section 20 |  |
 | Section 21 |  |
