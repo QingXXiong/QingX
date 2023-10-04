@@ -189,4 +189,4 @@ Navigate the walkthrough:
 | Section 18 | 33 |
 | Section 19 | 34 |
 | Section 20 | 35-37 |
-| Section 21 |  |
+| Section 21 | 38-40 |
