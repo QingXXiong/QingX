@@ -4,35 +4,35 @@
 
 1. Go Right until near the magnet switch and Grab.
 2. Go Left to the gravity switch and Grab.
-3. After the block 1 up above is near the top, Grab the gravity switch again.
+3. When Block 1 up above is near the top, Grab the gravity switch again.
 
-_Trick_: Count 2 seconds between the first and second Grab action. If the timing is right, you'll hear the tumbling sound of block 2.
+_Trick_: Count 2 seconds between the first and second Grab action. If the timing is right, you'll hear the tumbling sound of Block 2.
 
-4. Go Up the platform 1, then Jump Over right to the platform 2.
-5. Jump Over right to the block 2, then Go Up to another side.
+4. Go Up Platform 1, then Jump Over right to Platform 2.
+5. Jump Over right through Block 2, then Go Up.
 
 ## Chapter 36
 
-1. Go Right to stand beside the up arrow, then Grab gravity switch 1 and wait.
-2. After the cart with the rope attached is near the platform, stand beside the down arrow, then Grab the gravity switch 2.
+1. Go Right to stand beside _Up_ arrow, then Grab Gravity Switch 1 and wait.
+2. When the cart with the rope attached appear, wait 1 second, stand beside _Down_ arrow, then Grab Gravity Switch 2.
 3. Jump Over right to hold the rope.
-4. After above the platform, Go Down.
-5. Go Down, when near the right arrow, Jump Over and Grab the gravity switch 3.
+4. When above the platform, Go Down.
+5. Go Down, when near _Right_ arrow, Jump Over and Grab Gravity Switch 3.
 
 ## Chapter 37
 
-1. Go Right until near the end, wait the I letter to light up again whether it's lighting up or not.
+1. Go Right until near the end, wait _I_ to light up again whether it's lighting up or not.
 
-_Trick_: The I letter will light up about every 2 seconds and about 2 seconds.
+_Trick_: _I_ will light up about every 2 seconds and about 2 seconds.
 
-2. After the I letter lights up, Jump Over, when to the down arrow, Grab the gravity switch.
+2. When _I_ lights up, Jump Over right, when to _Down_ arrow, Grab the gravity switch.
 
 _Trick_: This time, for Jump Over, use Go Up + Go Left.
 
-3. Jump Over to the middle of letter, wait it to light up again.
+3. Jump Over to the place with no light, wait it to light up again.
 4. After the letter lights up, wait 1 second, then Jump Over right 2 times to the pipe.
-5. Jump Over left to the letter, then Jump Over right to hold the rope.
+5. Jump Over left to _I_, then Jump Over right to hold the rope and Go Down.
 
 _Trick_: Jump Over right in no time when landing on the letter.
 
-6. Go Down to the O letter, then Go Right.
+6. Go Down _O_ and Go Right.

@@ -187,6 +187,6 @@ Navigate the walkthrough:
 | Section 16 | 29-30 |
 | Section 17 | 31-32 |
 | Section 18 | 33 |
-| Section 19 |  |
-| Section 20 |  |
+| Section 19 | 34 |
+| Section 20 | 35-37 |
 | Section 21 |  |
