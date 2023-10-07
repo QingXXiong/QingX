@@ -121,7 +121,7 @@ Why? It's concise, clear, and consistent. You don't want to die when following c
 
 ### The objects commonly used
 
-Here is a cheat sheet with quips for you.
+Here is a cheat sheet with quips for you. You will understand them after playing the game.
 
 | Object name | Good to know |
 | :--- | :--- |
@@ -169,24 +169,24 @@ Navigate the walkthrough:
 
 | Section | Chapters |
 | :--- | :--- |
-| Section 1 | 1-3 |
-| Section 2 | 4 |
-| Section 3 | 5 |
-| Section 4 | 6-7 |
-| Section 5 | 8-10 |
-| Section 6 | 11 |
-| Section 7 | 12-14 |
-| Section 8 | 15-17 |
-| Section 9 | 18 |
-| Section 10 | 19-20 |
-| Section 11 | 21-22 |
-| Section 12 | 23 |
-| Section 13 | 24-25 |
-| Section 14 | 26-27 |
-| Section 15 | 28 |
-| Section 16 | 29-30 |
-| Section 17 | 31-32 |
-| Section 18 | 33 |
-| Section 19 | 34 |
-| Section 20 | 35-37 |
-| Section 21 | 38-40 |
+| Section 1 | [1-3](section1.md) |
+| Section 2 | [4](section2.md) |
+| Section 3 | [5](section3.md) |
+| Section 4 | [6-7](section4.md) |
+| Section 5 | [8-10](section5.md) |
+| Section 6 | [11](section6.md) |
+| Section 7 | [12-14](section7.md) |
+| Section 8 | [15-17](section8.md) |
+| Section 9 | [18](section9.md) |
+| Section 10 | [19-20](section10.md) |
+| Section 11 | [21-22](section11.md) |
+| Section 12 | [23](section12.md) |
+| Section 13 | [24-25](section13.md) |
+| Section 14 | [26-27](section14.md) |
+| Section 15 | [28](section15.md) |
+| Section 16 | [29-30](section16.md) |
+| Section 17 | [31-32](section17.md) |
+| Section 18 | [33](section18.md) |
+| Section 19 | [34](section19.md) |
+| Section 20 | [35-37](section20.md) |
+| Section 21 | [38-40](section21.md) |
